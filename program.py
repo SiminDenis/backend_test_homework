@@ -1,1 +1,1 @@
-print('Я домашка') #+Notepad 
+print('Я домашка') #test
